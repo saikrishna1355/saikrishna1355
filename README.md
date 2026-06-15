@@ -1,6 +1,4 @@
-Here is your complete, fully structured README.md file. You can download the generated file directly from the link below or copy the markdown block into your repository.
-[file-tag: code-generated-file-0-1781549899131443822]
-```markdown
+
 # Hi there, I'm Muppuri Sai Krishna! 👋
 
 <p align="left">
@@ -39,6 +37,19 @@ I am a Full-Stack Web Developer dedicated to building highly interactive web exp
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" /></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" /></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" /></code>
+
+
+
+## 📦 Featured Open Source NPM Packages
+
+> *"Sometimes the best developer tools come from solving our own frustrations."*
+
+### ⚡ [node-init-app](https://www.npmjs.com/package/node-init-app)
+A rapid-scaffolding Node.js CLI tool built to skip routine boilerplate setups. It spins up a production-ready backend architecture in under 10 seconds so developers can focus immediately on writing logic.
+* **Includes**: Controllers / Models / Routes / Services layer structure.
+* **Features**: Dynamic JWT Authentication out of the box, Dev/Staging/Production environment configuration, and clean JavaScript or TypeScript options.
+```bash
+npx node-init-app my-new-app
 
 ---
 
