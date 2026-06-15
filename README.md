@@ -26,7 +26,6 @@ Published NPM packages with 6,600+ downloads.
 ## 💼 Current Role
 
 Senior Software Engineer
-Novac Technology Solutions
 
 ## 🎯 Interests
 
