@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sai Krishna 👋
 
-<!--
-**saikrishna1355/saikrishna1355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 3+ years of experience building enterprise applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Next.js
+- TypeScript
+- Node.js
+- AWS
+- SQL
+- IIS
+- Nginx
+
+## 📦 Open Source
+
+Published NPM packages with 6,600+ downloads.
+
+- Bot Detection
+- Create NodeJS App
+- AI Comments
+- Custom Rich Text Editor
+- Dependency Health Check
+
+## 💼 Current Role
+
+Senior Software Engineer
+Novac Technology Solutions
+
+## 🎯 Interests
+
+- Enterprise Applications
+- Web Security
+- Bug Bounty
+- Developer Tools
+- Open Source
+
+## 📫 Connect
+
+- LinkedIn
+- GitHub
+- NPM
